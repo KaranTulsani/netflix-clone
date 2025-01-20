@@ -11,3 +11,5 @@ I made this Netflix Clone website with the help of HTML and CSS.
 - **Frontend**:
   -Html
   -CSS
+## My Project
+http://127.0.0.1:3000/netflix_clone/index.html
